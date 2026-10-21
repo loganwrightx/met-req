@@ -1,0 +1,5 @@
+# pycache folders and contents
+__pycache__
+
+# Local database folder
+.metreq_db
